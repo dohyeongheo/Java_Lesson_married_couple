@@ -1,4 +1,4 @@
-public class ex14_if {
+public class Ex14_if {
     public static void main(String[] args) {
         int a = 3;
 

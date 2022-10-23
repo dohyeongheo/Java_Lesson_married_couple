@@ -1,4 +1,4 @@
-public class ex15_if {
+public class Ex15_if {
     public static void main(String[] args) {
         int score = 70;
         String grade = "";
